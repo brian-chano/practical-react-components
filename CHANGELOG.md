@@ -3,7 +3,35 @@
 All notable changes to this project will be documented in this file.
 
 
-## [v0.61.0](https://github.com/AxisCommunications/practical-react-components/compare/v0.59.0...v0.61.0) (2021-11-23 15:43:23 +0100)
+## [v0.64.0](https://github.com/AxisCommunications/practical-react-components/compare/v0.63.0...v0.64.0) (2021-12-15 09:47:42 +0100)
+
+### 🚧 Maintenance
+
+  -  update dependencies ([7128435](https://github.com/AxisCommunications/practical-react-components/commit/712843571928d8dcab9684bfacb06106afede860))
+
+### ✨ Features
+
+  - **toast**:  allow user to provide custom toastOptions ([2d4df0a](https://github.com/AxisCommunications/practical-react-components/commit/2d4df0a60ecdea32a9dca83c93ea2069ada7b2a5))
+
+## [v0.63.0](https://github.com/AxisCommunications/practical-react-components/compare/v0.62.0...v0.63.0) (2021-12-14 15:01:48 +0100)
+
+### ✨ Features
+
+  - **formik**:  add FormikSearchSelect component ([050067a](https://github.com/AxisCommunications/practical-react-components/commit/050067a4d10c2e0ac12d05539d5deb841277d5c2))
+  - **icons**:  add arrow back icon ([4c7d85b](https://github.com/AxisCommunications/practical-react-components/commit/4c7d85b27dbb819468a49fd40e2ecb6f994d106e))
+
+## [v0.62.0](https://github.com/AxisCommunications/practical-react-components/compare/v0.61.0...v0.62.0) (2021-12-08 11:31:49 +0100)
+
+### ✨ Features
+
+  - **icons**:  add manual focus, near and far away icons ([b5e72e7](https://github.com/AxisCommunications/practical-react-components/commit/b5e72e7e3fe349b96c97fce94bead550c19b854b))
+
+### 🐛 Bug fixes
+
+  - **table**:  hover effect does not stay on table row when menu on table row active ([64227e7](https://github.com/AxisCommunications/practical-react-components/commit/64227e7902b56313942aa77fdf5619d97cf19be0))
+  - **menu**:  hover effect does not stay on menu button when menu is activated ([e383796](https://github.com/AxisCommunications/practical-react-components/commit/e383796ac23a0407139f214f4e4228147b8d8aef))
+
+## [v0.61.0](https://github.com/AxisCommunications/practical-react-components/compare/v0.59.0...v0.61.0) (2021-11-23 16:11:01 +0100)
 
 ### 🚧 Maintenance
 
